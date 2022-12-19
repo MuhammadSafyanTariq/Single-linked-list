@@ -152,7 +152,7 @@ third->data=777;
 third->next=NULL;
   traverse(head) ;
 
-//here you can call all the functions
+//here you can call all the functions.
 
 
 return 0;
